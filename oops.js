@@ -30,6 +30,6 @@ class Vehicle {
     vehicle.accelerate(30);
     vehicle.brake(10);
   }
-  const myCar = new Car("Camry", 2022, "Gasoline");
+  const myCar = new Car("MG", 2022, "E.V");
   drive(myCar);
   myCar.refuel(); 
